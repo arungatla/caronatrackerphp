@@ -102,7 +102,8 @@
     </div>
     <footer class="footer mt-auto py-3 bg-dark">
     <div class="container text-center">
-        <span class="text-muted">Copyright &copy;2020,<a href="htts://packetcode.in">PacketCode</a></span>
+        <img src="arungatla.jpg" alt="arungatla" height="50px" width="50px">
+        <div class="text-muted">Copyright &copy;2020,<a href="#">arungatla</a></div>
     </div>
     </footer>
     
