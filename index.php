@@ -24,6 +24,10 @@
     <!-- My Stylesheet -->
     <link rel="stylesheet" href="styles.css">
 
+    <!-- My icon -->
+    <link rel="icon" href="virus.png" type="image/png">
+    
+
     
     
 
